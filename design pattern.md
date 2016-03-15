@@ -7,7 +7,7 @@
 1. 
 `java.text.NumberFormat#getInstance()`
 	
-	![](./images/factory.jpg)
+	![](./images/design pattern/factory.jpg)
 	**设计模式**：工厂模式。
 	
 	**角色**：
@@ -16,7 +16,7 @@
 2. 
 `javax.servlet.http.HttpSessionBindingListener`
 	
-	![](./images/observer.jpg)
+	![](./images/design pattern/observer.jpg)
 
 	**设计模式**：观察者模式。
 
@@ -28,7 +28,7 @@
 3. 
 `java.util.Collections, the checkedXXX(), synchronizedXXX() and unmodifiableXXX()methods.`
 
-	![](./images/observer.jpg)
+	![](./images/design pattern/observer.jpg)
 
 	**设计模式**：装饰模式。
 	
@@ -38,7 +38,7 @@
 `javax.servlet.http.HttpServlet, the service() and all doXXX() methods take` `HttpServletRequest and HttpServletResponse and the implementor has to process`
 `them (and not to get hold of them as instance variables!).`
 	
-	![](./images/strategy.jpg)	
+	![](./images/design pattern/strategy.jpg)	
 
 	**设计模式**：策略模式。
 
@@ -48,7 +48,7 @@
 
 5. 
 `java.io.InputStreamReader(InputStream) (returns a Reader)`
-	![](./images/adapter.jpg)
+	![](./images/design pattern/adapter.jpg)
 	
 	**设计模式**：适配器模式。
 
@@ -57,7 +57,7 @@
 6. 
 `All non-abstract methods of java.io.InputStream, java.io.OutputStream, java.io.Reader and java.io.Writer.`
 
-	![](./images/template.jpg)
+	![](./images/design pattern/template.jpg)
 
 	**设计模式**：模板方法模式。
 
