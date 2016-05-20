@@ -70,6 +70,6 @@ CommonJS有很多实现，其中不乏很多大名鼎鼎的项目，比如 说�
 由于ReactJS只是view层的框架，在简洁，轻巧的同时，也会有有一些功能上的不足。这里介绍下几种相应的框架可以和ReactJS很好的结合，完成应用的构建。pubsub框架是一个事件框架，或者说是一种模式。当两个没有联系，不构成父子级关系的组件需要进行数据通信时就可以使用pubsub的方式进行通信，就像以前AngularJS在1.x时代的$emit、$on、$broadcast一样。react-route，路由的功能就不必多说了，想必大家都经常用。
 
 
-### 一个简单的单页应用
+## 一个简单的单页应用
 pubsubjs:建议用bower安装js包后，跟着包里的demo或者操作说明来操作，否则新手可能会坑到自己。在此用pubsubjs + react-route + react 搭了一个简单的demo，可以作为参考
 https://github.com/mikelinjie/react-demo
