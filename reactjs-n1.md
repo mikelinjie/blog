@@ -4,6 +4,8 @@
 
 入门教程 React中文网站：http://docs.reactjs-china.com/react/docs/getting-started.zh-CN.html
 
+中文网站的例子已经很好了，另找了一个例子作为参考https://github.com/ruanyf/react-demos
+
 简易服务器搭建
 ```
 $ npm install -g http-server
